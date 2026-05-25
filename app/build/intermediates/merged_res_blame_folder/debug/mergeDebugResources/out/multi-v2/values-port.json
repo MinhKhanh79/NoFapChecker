@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mika.nofap.app-mergeDebugResources-44:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\caches\\transforms-4\\ea74dc4a70505960d406e49d7700fe21\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

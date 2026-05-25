@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\drawable_exp_bar_yin_yang.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\drawable\\exp_bar_yin_yang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\drawable_ic_status_dot_glow.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\drawable\\ic_status_dot_glow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\color_switch_thumb_selector.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\color\\switch_thumb_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\mipmap-hdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\color_switch_track_selector.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\color\\switch_track_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\layout_item_rank.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\item_rank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\anim_flame_pulse.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\anim\\flame_pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\drawable_ic_yin_yang.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\drawable\\ic_yin_yang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\layout_layout_rank_header.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\layout_rank_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\drawable_ic_status_dot.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\drawable\\ic_status_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\layout_fragment_logs.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\fragment_logs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\layout_fragment_rank.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\fragment_rank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\layout_fragment_streak.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\fragment_streak.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\drawable_ic_clock.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\drawable\\ic_clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\layout_dialog_manual_streak.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\dialog_manual_streak.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\layout_item_log.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\item_log.xml"
+    },
+    {
+        "merged": "com.mika.nofap.app-debug-46:/layout_activity_main.xml.flat",
+        "source": "com.mika.nofap.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\layout_activity_cooldown.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\activity_cooldown.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-debug-46:\\drawable_exp_bar_drawable.xml.flat",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\drawable\\exp_bar_drawable.xml"
+    }
+]

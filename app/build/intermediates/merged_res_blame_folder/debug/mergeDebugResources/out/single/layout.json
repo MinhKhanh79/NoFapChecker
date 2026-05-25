@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-mergeDebugResources-45:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-mergeDebugResources-45:\\layout\\item_rank.xml",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\item_rank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-mergeDebugResources-45:\\layout\\activity_cooldown.xml",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\activity_cooldown.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-mergeDebugResources-45:\\layout\\item_log.xml",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\item_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-mergeDebugResources-45:\\layout\\dialog_manual_streak.xml",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\dialog_manual_streak.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-mergeDebugResources-45:\\layout\\fragment_streak.xml",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\fragment_streak.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-mergeDebugResources-45:\\layout\\fragment_rank.xml",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\fragment_rank.xml"
+    },
+    {
+        "merged": "com.mika.nofap.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "com.mika.nofap.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-mergeDebugResources-45:\\layout\\layout_rank_header.xml",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\layout_rank_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-mergeDebugResources-45:\\layout\\fragment_logs.xml",
+        "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\daemon\\8.7\\com.mika.nofap.app-main-48:\\layout\\fragment_logs.xml"
+    }
+]

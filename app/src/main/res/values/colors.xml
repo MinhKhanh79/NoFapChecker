@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Brand Colors (Fallback if Dynamic Colors not available) -->
+    <color name="bg_dark">#0D0D0F</color> <!-- Keeping for icons/backwards compat -->
+    <color name="bg_light">#F8F9FA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="accent_gold">#8B6E00</color>
+    <color name="accent_red">#B3261E</color>
+    <color name="accent_green">#1AAD19</color>
+    <color name="text_primary">#1C1B1F</color>
+    <color name="text_muted">#49454F</color>
+
+    <!-- Yin Yang specialized -->
+    <color name="bg_yin_yang">#F2F2F2</color>
+    <color name="text_yin_yang_primary">#1A1A1A</color>
+    <color name="text_yin_yang_muted">#757575</color>
+
+    <color name="divider">#CAC4D0</color>
+    <color name="shizuku_btn">#E8DEF8</color>
+
+    <!-- Switch colors - Re-added for selectors -->
+    <color name="switch_on_track">#6750A4</color>
+    <color name="switch_off_track">#EADDFF</color>
+    <color name="switch_on_thumb">#FFFFFF</color>
+    <color name="switch_off_thumb">#79747E</color>
+</resources>

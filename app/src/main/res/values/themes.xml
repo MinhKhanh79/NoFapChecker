@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme forced to Light Mode -->
+    <style name="Theme.NoFapTracker" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Pixel 8 specific: Transparent status and nav bars for edge-to-edge -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
+        <!-- Ensure status bar icons are dark in Light Mode -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- Splash Screen Theme -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/bg_light</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_clock</item>
+        <item name="postSplashScreenTheme">@style/Theme.NoFapTracker</item>
+    </style>
+</resources>

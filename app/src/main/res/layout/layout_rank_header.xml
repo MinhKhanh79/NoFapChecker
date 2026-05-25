@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="32dp"
+    android:gravity="center"
+    android:background="?attr/colorSurface">
+
+    <!-- Yin Yang Icon as visual center -->
+    <ImageView
+        android:id="@+id/ivYinYang"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ic_yin_yang"
+        android:layout_marginBottom="24dp"
+        android:alpha="0.8"
+        android:contentDescription="Yin Yang"
+        app:tint="?attr/colorOnSurface" xmlns:app="http://schemas.android.com/apk/res-auto" />
+
+    <TextView
+        android:id="@+id/tvCurrentRank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rank_0"
+        android:textColor="?attr/colorOnSurface"
+        android:textSize="26sp"
+        android:fontFamily="sans-serif-black"
+        android:letterSpacing="0.1" />
+
+    <TextView
+        android:id="@+id/tvRankIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="🌱"
+        android:textSize="20sp" />
+
+    <!-- Minimalist Progress Bar -->
+    <ProgressBar
+        android:id="@+id/pbExp"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="200dp"
+        android:layout_height="3dp"
+        android:layout_marginTop="24dp"
+        android:progressDrawable="@drawable/exp_bar_yin_yang"
+        android:max="100"
+        android:progress="0" />
+
+    <TextView
+        android:id="@+id/tvNextBreakthrough"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Đột phá tiếp theo sau: 00:00:00"
+        android:textColor="?attr/colorOnSurfaceVariant"
+        android:textSize="13sp"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="italic" />
+
+</LinearLayout>

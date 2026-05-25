@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_dark"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center_horizontal">
+
+        <!-- Header -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="STREAK TRACKER"
+            android:textColor="@color/accent_gold"
+            android:textSize="13sp"
+            android:letterSpacing="0.3"
+            android:fontFamily="sans-serif-medium" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Kiên Trì · Kỷ Luật · Tự Do"
+            android:textColor="@color/text_muted"
+            android:textSize="12sp" />
+
+        <!-- Flame / streak icon -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="🔥"
+            android:textSize="64sp" />
+
+        <!-- Counter card -->
+        <androidx.cardview.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            card_view:cardBackgroundColor="@color/card_bg"
+            card_view:cardCornerRadius="20dp"
+            card_view:cardElevation="8dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="24dp"
+                android:gravity="center">
+
+                <!-- Days / Hours / Minutes row -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center">
+
+                    <!-- Days -->
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/tvDays"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0"
+                            android:textColor="@color/accent_gold"
+                            android:textSize="56sp"
+                            android:fontFamily="sans-serif-light" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="NGÀY"
+                            android:textColor="@color/text_muted"
+                            android:textSize="11sp"
+                            android:letterSpacing="0.2" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=":"
+                        android:textColor="@color/text_muted"
+                        android:textSize="32sp"
+                        android:paddingBottom="16dp" />
+
+                    <!-- Hours -->
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/tvHours"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="00"
+                            android:textColor="@color/text_primary"
+                            android:textSize="56sp"
+                            android:fontFamily="sans-serif-light" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="GIỜ"
+                            android:textColor="@color/text_muted"
+                            android:textSize="11sp"
+                            android:letterSpacing="0.2" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=":"
+                        android:textColor="@color/text_muted"
+                        android:textSize="32sp"
+                        android:paddingBottom="16dp" />
+
+                    <!-- Minutes -->
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/tvMinutes"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="00"
+                            android:textColor="@color/text_primary"
+                            android:textSize="56sp"
+                            android:fontFamily="sans-serif-light" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="PHÚT"
+                            android:textColor="@color/text_muted"
+                            android:textSize="11sp"
+                            android:letterSpacing="0.2" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <!-- Status label -->
+                <TextView
+                    android:id="@+id/tvStatus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:text="🔓 Chưa bắt đầu"
+                    android:textColor="@color/text_muted"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- DNS Toggle card -->
+        <androidx.cardview.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            card_view:cardBackgroundColor="@color/card_bg"
+            card_view:cardCornerRadius="20dp"
+            card_view:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="20dp"
+                android:gravity="center_vertical">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="🛡️  DNS Adult Filter"
+                        android:textColor="@color/text_primary"
+                        android:textSize="16sp"
+                        android:fontFamily="sans-serif-medium" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="4dp"
+                        android:text="family.adguard-dns.com\nTắt = Reset streak ngay lập tức"
+                        android:textColor="@color/text_muted"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <com.google.android.material.switchmaterial.SwitchMaterial
+                    android:id="@+id/switchDns"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="false"
+                    app:trackTint="@color/switch_track_selector"
+                    app:thumbTint="@color/switch_thumb_selector" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Stats card -->
+        <androidx.cardview.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            card_view:cardBackgroundColor="@color/card_bg"
+            card_view:cardCornerRadius="20dp"
+            card_view:cardElevation="4dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="20dp">
+
+                <!-- Longest streak -->
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="🏆"
+                        android:textSize="28sp" />
+
+                    <TextView
+                        android:id="@+id/tvLongest"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:text="0 ngày"
+                        android:textColor="@color/accent_gold"
+                        android:textSize="18sp"
+                        android:fontFamily="sans-serif-medium" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Kỷ lục"
+                        android:textColor="@color/text_muted"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/divider" />
+
+                <!-- Total resets -->
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="💀"
+                        android:textSize="28sp" />
+
+                    <TextView
+                        android:id="@+id/tvResets"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:text="0 lần"
+                        android:textColor="@color/accent_red"
+                        android:textSize="18sp"
+                        android:fontFamily="sans-serif-medium" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Đã reset"
+                        android:textColor="@color/text_muted"
+                        android:textSize="12sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Shizuku button -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnShizuku"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="20dp"
+            android:text="🔑 Cấp quyền Shizuku"
+            android:textSize="14sp"
+            app:backgroundTint="@color/shizuku_btn"
+            app:cornerRadius="16dp"
+            android:textColor="@color/text_primary" />
+
+        <!-- Motivational quote -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:layout_marginBottom="32dp"
+            android:text="&quot;Kỷ luật là cầu nối giữa mục tiêu và thành công.&quot;"
+            android:textColor="@color/text_muted"
+            android:textSize="12sp"
+            android:gravity="center"
+            android:fontFamily="sans-serif-light"
+            android:paddingHorizontal="24dp" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">No Fap by Mika</string>
+    <string name="streak_tracker">TU VI ĐẠO HỮU</string>
+    <string name="motto">Kiên Trì · Cốt Cách · Trường Sinh</string>
+    <string name="label_days">NGÀY</string>
+    <string name="label_hours">GIỜ</string>
+    <string name="label_minutes">KHẮC</string>
+    <string name="dns_adult_filter">🛡️ Hộ Thân Pháp Trận</string>
+    <string name="dns_desc">%1$s\nPháp trận vỡ = Tu vi tiêu tán</string>
+    <string name="longest_streak_label">Đỉnh Phong</string>
+    <string name="total_resets_label">Tâm Ma</string>
+    <string name="shizuku_grant_permission">🔑 Khởi Động Linh Lực</string>
+    <string name="shizuku_ok">✅ Linh Lực Sẵn Sàng</string>
+    <string name="quote">"Đạo tâm bất biến, vạn kiếp bất diệt."</string>
+
+    <string name="status_shizuku_not_ready">⚠️ Linh lực chưa tụ</string>
+    <string name="status_protecting">🔒 Đang hộ pháp</string>
+    <string name="status_not_started">🔓 Chưa nhập đạo</string>
+
+    <string name="toast_shizuku_granted">✅ Khai thông kinh mạch thành công!</string>
+    <string name="toast_shizuku_denied">❌ Linh lực bị nghẽn.</string>
+    <string name="toast_dns_enabled">✅ Pháp trận đã lập — Bắt đầu tu luyện!</string>
+    <string name="toast_dns_enable_failed">❌ Pháp trận lỗi. Kiểm tra linh lực.</string>
+    <string name="toast_dns_disabled">💀 Pháp trận vỡ — Tu vi tiêu biến. Hãy nhập đạo lại!</string>
+    <string name="toast_dns_disable_failed">❌ Không thể thu hồi pháp trận.</string>
+    <string name="toast_dns_updated">✅ Cấu hình pháp trận đã thay đổi!</string>
+
+    <string name="notif_protecting">Đang hộ pháp cho đạo hữu...</string>
+    <string name="notif_reset_title">💀 Tu vi tiêu tán!</string>
+    <string name="notif_reset_text">Tâm ma xâm nhập, pháp trận đã vỡ. Đứng dậy tu luyện lại đi!</string>
+    <string name="notif_start_title">🚀 NHẬP ĐẠO!</string>
+    <string name="notif_start_text">Hành trình tu tiên bắt đầu. Đừng để tâm ma chiến thắng.</string>
+    <string name="notif_streak_format">Tu vi: %1$d ngày %2$02d giờ 🔥</string>
+    <string name="notif_channel_name">Linh Lực Giám Sát</string>
+    <string name="notif_channel_desc">Giám sát pháp trận để bảo vệ tu vi</string>
+    <string name="time_format_hours">%02d</string>
+    <string name="time_format_minutes">%02d</string>
+    <string name="stats_days_format">%1$d ngày</string>
+    <string name="stats_resets_format">%1$d kiếp</string>
+
+    <!-- Ranks -->
+    <string name="tab_streak">Linh Đài</string>
+    <string name="tab_rank">Cảnh Giới</string>
+    <string name="tab_logs">Hào Kiệt</string>
+    <string name="rank_title">Cảnh Giới Tu Vi</string>
+    <string name="rank_0">Phàm Nhân</string>
+    <string name="rank_1">Luyện Khí Kỳ</string>
+    <string name="rank_2">Trúc Cơ Kỳ</string>
+    <string name="rank_3">Kim Đan Kỳ</string>
+    <string name="rank_4">Nguyên Anh Kỳ</string>
+    <string name="rank_5">Hóa Thần Kỳ</string>
+    <string name="rank_6">Luyện Hư Kỳ</string>
+    <string name="rank_7">Hợp Thể Kỳ</string>
+    <string name="rank_8">Đại Thừa Kỳ</string>
+    <string name="rank_9">Độ Kiếp Kỳ</string>
+    <string name="rank_10">Thượng Nhân</string>
+    <string name="rank_next_format">Cần thêm %1$d ngày để đột phá %2$s</string>
+    <string name="rank_max">Đã đạt tới đỉnh phong thiên hạ!</string>
+
+    <!-- Logs -->
+    <string name="logs_title">Bảng Vàng Hào Kiệt</string>
+    <string name="log_streak_format">%1$d ngày, %2$d giờ, %3$d khắc</string>
+    <string name="log_date_format">Ngày rớt đài: %s</string>
+    <string name="log_empty">Chưa có hào kiệt nào rớt đài...</string>
+
+    <!-- Reset Dialog -->
+    <string name="dialog_reset_title">Xác nhận bỏ cuộc?</string>
+    <string name="dialog_reset_msg">Tâm ma quá lớn? Hãy ghi lại nguyên cớ để lần sau không vấp ngã:</string>
+    <string name="hint_reset_reason">Nguyên cớ thất bại (ví dụ: tâm ma stress...)</string>
+    <string name="btn_confirm_reset">Xác nhận Tán Tu</string>
+    <string name="btn_cancel">Trở lại</string>
+    <string name="toast_reset_saved">Nguyên cớ đã được ghi lại. Hãy nhập đạo lại từ đầu!</string>
+
+    <!-- Easter Egg -->
+    <string name="easter_egg_reward">Phần thưởng cho kẻ xứng đáng.</string>
+    <string name="easter_egg_toast">Vạn pháp quy tông. Tạm thời phá lệ!</string>
+
+    <!-- Cooldown -->
+    <string name="cooldown_title">Lắng lại một chút...</string>
+    <string name="cooldown_timer_format">Đã chuẩn bị tán tu sau %1$d giây?</string>
+    <string name="btn_stay_strong">Ta sẽ tiếp tục chiến đấu</string>
+    <string name="btn_give_up">Vẫn muốn tán tu</string>
+
+    <string-array name="meditative_quotes">
+        <item>\"Đừng thương hại bản thân. Chỉ những kẻ hạ đẳng mới làm thế.\" — Rừng Na Uy</item>
+        <item>\"Mọi thứ đều trôi qua, không gì dừng lại. Chúng ta đang sống trong một thế giới của những thay đổi vĩnh cửu.\" — Haruki Murakami</item>
+        <item>\"Cái gì đã qua thì cứ để nó qua. Đừng bao giờ ngoái đầu lại nhìn.\"</item>
+        <item>\"Giữa một rừng người, tôi vẫn thấy mình cô độc. Nhưng cô độc không phải là cô đơn.\"</item>
+        <item>\"Ký ức có thể làm ấm lòng người, nhưng cũng có thể xé nát nó ra.\" — Rừng Na Uy</item>
+        <item>\"Sâu thẳm trong lòng mỗi người đều có một khu rừng tĩnh lặng, nơi những âm thanh ồn ào không thể chạm tới.\"</item>
+        <item>\"Bầu trời mùa đông phương Bắc thật rộng lớn, nó nhắc ta rằng nỗi đau của mình thật nhỏ bé biết bao.\"</item>
+        <item>\"Đừng để một khoảnh khắc yếu lòng đánh đổi cả một hành trình vạn dặm.\"</item>
+        <item>\"Hơi thở nhẹ nhàng, tâm trí bình an. Cám dỗ chỉ là mây khói đi ngang qua đỉnh núi.\"</item>
+        <item>\"Sức mạnh thực sự không phải là không bao giờ gục ngã, mà là đứng dậy sau mỗi lần vấp ngã.\"</item>
+    </string-array>
+
+    <!-- Settings -->
+    <string name="title_settings">Tàng Kinh Các</string>
+    <string name="section_appearance">Giao diện</string>
+    <string name="label_theme">Cảnh sắc (Tối/Sáng)</string>
+    <string name="label_provider">Pháp Môn DNS</string>
+    <string name="dns_provider_adguard">AdGuard Môn</string>
+    <string name="dns_provider_cleanbrowsing">CleanBrowsing Tộc</string>
+    <string name="dns_provider_custom">Vô Danh Môn (Custom)</string>
+    <string name="label_custom_dns_field">Pháp hiệu DNS</string>
+    <string name="section_about">Về ứng dụng</string>
+    <string name="label_version">Giai đoạn</string>
+    <string name="theme_system">Theo thiên địa</string>
+    <string name="theme_light">Thanh Thiên</string>
+    <string name="theme_dark">Hắc Dạ</string>
+
+    <!-- Manual Streak -->
+    <string name="hint_streak_instruction">Mẹo: Chạm 2 lần vào đồng hồ để đồng bộ tu vi cũ.</string>
+    <string name="dialog_streak_title">Thiết lập Tu Vi</string>
+    <string name="dialog_streak_msg">Nếu bạn đã tu luyện từ trước, hãy chọn ngày giờ khởi đầu:</string>
+    <string name="hint_days_input">Số ngày (ví dụ: 10)</string>
+    <string name="btn_save">Lưu</string>
+    <string name="toast_streak_updated">Tu vi đã được đồng bộ hóa!</string>
+</resources>

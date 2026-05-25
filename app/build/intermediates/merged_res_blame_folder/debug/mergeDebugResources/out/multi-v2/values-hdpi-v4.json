@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mika.nofap.app-mergeDebugResources-44:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Minh Khanh Bui\\.gradle\\caches\\transforms-4\\ea74dc4a70505960d406e49d7700fe21\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

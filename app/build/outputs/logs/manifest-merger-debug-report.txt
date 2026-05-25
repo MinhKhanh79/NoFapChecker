@@ -1,0 +1,664 @@
+-- Merging decision tree log ---
+provider#rikka.shizuku.ShizukuProvider
+INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:52:9-58:54
+	android:enabled
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:55:13-35
+	android:authorities
+		INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:54:13-59
+	android:multiprocess
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:57:13-41
+	android:exported
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:56:13-36
+	tools:ignore
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:58:13-51
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:53:13-57
+manifest
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [androidx.databinding:viewbinding:8.3.2] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\4c43f3ee56477bbac6179f9494d8dfdb\transformed\viewbinding-8.3.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\bdd80407bb5faa70684d863d17217a62\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\da7eef9bfd481c898328418d9d6b2fd4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\349ef8ed092befcdc024c6bec846347f\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\ea74dc4a70505960d406e49d7700fe21\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\2451f12637ffbc27fe2e1d6c275eca55\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.8.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7be9801550f1ddd56d7e392e1de2611d\transformed\fragment-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5588d8525b6659d8e58333f4149c0bb7\transformed\fragment-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\1a5f946f886857cdce47160f9723c355\transformed\activity-1.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\74b3ed8a19e2ba7a080c0e7488b9411a\transformed\activity-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5ab91152720d6fea5c0e246a6b9699fd\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\d5096c0e083f9a5684fa922d5dfebab1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\f20dd03bb6bebf11c3e539069636d5ec\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\32315013b9ce0e1cd7a9251680e16325\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\1f925182817d619298dee3c98c5b8950\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\cc9de94509ca57a16868eb1832ce8a17\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\8413e09844485b9208457dc180bff630\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime-ktx:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\366d5bc568f992085538b45fff9e97f9\transformed\work-runtime-ktx-2.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\af0b52dafe5ed2cc484e04688562971b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\e34eb2a7481052b5a117abe3e22e0939\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\9638b15d57722f2900d756c6dcc552ee\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\08d55634e5991f8b2136f48c7d360d17\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\961d79ea11c22fae6c3ba09de4466fff\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\f07d98dbc551fdda2332a3b26e1ea933\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\74cf0d5ea029b00f57dc0b647635295b\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\fcdc4bc9238750f07b0337ee8e87dcfa\transformed\lifecycle-service-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\30d91876f4aec31316c05b5be6070fb7\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c69e2b31a75c2176306e19ab053d0177\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\0aab18d6f99f64da00aa113806ed1ac7\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\51b6da5c2f59c8ae89077864ba22149b\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\17d6a0c3f5ba97e8897c127f1dc9621e\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5ba7439c7fc2772e1904d874a813a56c\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\655361da876b11fc2f7c3e1d32898858\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\f6e472ed7256e275e3365f56abdbec70\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\1b953b0b1c3d6ab234b14d1cb8917629\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\a8536c2f27b5acf5e0dd05c1f9756733\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5629fa69e6d4b607ce1a4678fd789fd5\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\35907f846730dd616abd7cf590dc16d8\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\a2f19a40ff21e92fea9f81c4c804f42b\transformed\room-ktx-2.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7e8145148095a530409ee51d55040a84\transformed\room-runtime-2.5.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c232a7745ff984932779a47d315abbb0\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5af3be363182d560d6ab974942c06cc2\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [dev.rikka.shizuku:provider:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\89580fe01a1954ffd72dae240aa84c84\transformed\provider-13.1.5\AndroidManifest.xml:2:1-16:12
+MERGED from [dev.rikka.shizuku:api:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\e3ce219e7959460fb840d131ab4678ac\transformed\api-13.1.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\bd3c5d7112c781499707e51ea4d14f9f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\85caa28930a6acfc76c6a1a78e9e6d23\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [dev.rikka.shizuku:shared:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\fb2e0dc7e6f55a44f60f48f804c4519b\transformed\shared-13.1.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\103dfdf6e74201e360f64b70c7242c64\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\f985ed7cdf0bdd3b72de99d1da66db48\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\cb6fa932cc1c510926e2619909dd49fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\ddb3432330d81722613f9c1012f7c414\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\6b0fe6856d6d8d00e67fd9834dc479b4\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\b8e5191d2f4e130c88bdf826d24122c2\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\6cbcac371cdacae6ea1452baaba5b294\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\3b2405a130172a4ffb2fb764968e9f77\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\9c5c1662f8df9159b817f3eb7c4586a5\transformed\sqlite-2.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.lsposed.hiddenapibypass:hiddenapibypass:4.3] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\64c7f755d56babed05a4e8cb3c030c93\transformed\hiddenapibypass-4.3\AndroidManifest.xml:2:1-9:12
+MERGED from [dev.rikka.shizuku:aidl:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\fd88c38b91577c2ad958a98e4fd57165\transformed\aidl-13.1.5\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:5:5-81
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:25:5-81
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:6:22-74
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#moe.shizuku.manager.permission.API_V23
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:9:5-78
+MERGED from [dev.rikka.shizuku:provider:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\89580fe01a1954ffd72dae240aa84c84\transformed\provider-13.1.5\AndroidManifest.xml:8:5-78
+MERGED from [dev.rikka.shizuku:provider:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\89580fe01a1954ffd72dae240aa84c84\transformed\provider-13.1.5\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:9:22-75
+queries
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:11:5-13:15
+package#moe.shizuku.privileged.api
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:12:9-62
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:12:18-59
+application
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:15:5-60:19
+INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:15:5-60:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\bdd80407bb5faa70684d863d17217a62\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\bdd80407bb5faa70684d863d17217a62\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\da7eef9bfd481c898328418d9d6b2fd4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\da7eef9bfd481c898328418d9d6b2fd4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\30d91876f4aec31316c05b5be6070fb7\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\30d91876f4aec31316c05b5be6070fb7\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7e8145148095a530409ee51d55040a84\transformed\room-runtime-2.5.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7e8145148095a530409ee51d55040a84\transformed\room-runtime-2.5.0\AndroidManifest.xml:23:5-29:19
+MERGED from [dev.rikka.shizuku:provider:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\89580fe01a1954ffd72dae240aa84c84\transformed\provider-13.1.5\AndroidManifest.xml:10:5-14:19
+MERGED from [dev.rikka.shizuku:provider:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\89580fe01a1954ffd72dae240aa84c84\transformed\provider-13.1.5\AndroidManifest.xml:10:5-14:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\103dfdf6e74201e360f64b70c7242c64\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\103dfdf6e74201e360f64b70c7242c64\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\cb6fa932cc1c510926e2619909dd49fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\cb6fa932cc1c510926e2619909dd49fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:19:9-41
+	tools:ignore
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:24:9-36
+	android:roundIcon
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:20:9-48
+	tools:targetApi
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:23:9-29
+	android:icon
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:16:9-28
+meta-data#moe.shizuku.client.V3_SUPPORT
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:26:9-28:36
+MERGED from [dev.rikka.shizuku:provider:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\89580fe01a1954ffd72dae240aa84c84\transformed\provider-13.1.5\AndroidManifest.xml:11:9-13:36
+MERGED from [dev.rikka.shizuku:provider:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\89580fe01a1954ffd72dae240aa84c84\transformed\provider-13.1.5\AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:28:13-33
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:27:13-57
+activity#com.mika.nofap.ui.MainActivity
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:30:9-39:20
+	android:windowSoftInputMode
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:34:13-55
+	android:exported
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:33:13-54
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:31:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.mika.nofap.settings.SettingsActivity
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:41:9-44:54
+	android:label
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:44:13-51
+	android:exported
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:42:13-54
+activity#com.mika.nofap.cooldown.CooldownActivity
+ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:46:9-49:57
+	android:exported
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:48:13-37
+	android:theme
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml:47:13-54
+uses-sdk
+INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.3.2] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\4c43f3ee56477bbac6179f9494d8dfdb\transformed\viewbinding-8.3.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.3.2] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\4c43f3ee56477bbac6179f9494d8dfdb\transformed\viewbinding-8.3.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\bdd80407bb5faa70684d863d17217a62\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\bdd80407bb5faa70684d863d17217a62\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\da7eef9bfd481c898328418d9d6b2fd4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\da7eef9bfd481c898328418d9d6b2fd4\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\349ef8ed092befcdc024c6bec846347f\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\349ef8ed092befcdc024c6bec846347f\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\ea74dc4a70505960d406e49d7700fe21\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\ea74dc4a70505960d406e49d7700fe21\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\2451f12637ffbc27fe2e1d6c275eca55\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\2451f12637ffbc27fe2e1d6c275eca55\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.8.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7be9801550f1ddd56d7e392e1de2611d\transformed\fragment-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7be9801550f1ddd56d7e392e1de2611d\transformed\fragment-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5588d8525b6659d8e58333f4149c0bb7\transformed\fragment-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5588d8525b6659d8e58333f4149c0bb7\transformed\fragment-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\1a5f946f886857cdce47160f9723c355\transformed\activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\1a5f946f886857cdce47160f9723c355\transformed\activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\74b3ed8a19e2ba7a080c0e7488b9411a\transformed\activity-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\74b3ed8a19e2ba7a080c0e7488b9411a\transformed\activity-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5ab91152720d6fea5c0e246a6b9699fd\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5ab91152720d6fea5c0e246a6b9699fd\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\d5096c0e083f9a5684fa922d5dfebab1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\d5096c0e083f9a5684fa922d5dfebab1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\f20dd03bb6bebf11c3e539069636d5ec\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\f20dd03bb6bebf11c3e539069636d5ec\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\32315013b9ce0e1cd7a9251680e16325\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\32315013b9ce0e1cd7a9251680e16325\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\1f925182817d619298dee3c98c5b8950\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\1f925182817d619298dee3c98c5b8950\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\cc9de94509ca57a16868eb1832ce8a17\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\cc9de94509ca57a16868eb1832ce8a17\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\8413e09844485b9208457dc180bff630\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\8413e09844485b9208457dc180bff630\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\366d5bc568f992085538b45fff9e97f9\transformed\work-runtime-ktx-2.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\366d5bc568f992085538b45fff9e97f9\transformed\work-runtime-ktx-2.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\af0b52dafe5ed2cc484e04688562971b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\af0b52dafe5ed2cc484e04688562971b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\e34eb2a7481052b5a117abe3e22e0939\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\e34eb2a7481052b5a117abe3e22e0939\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\9638b15d57722f2900d756c6dcc552ee\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\9638b15d57722f2900d756c6dcc552ee\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\08d55634e5991f8b2136f48c7d360d17\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\08d55634e5991f8b2136f48c7d360d17\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\961d79ea11c22fae6c3ba09de4466fff\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\961d79ea11c22fae6c3ba09de4466fff\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\f07d98dbc551fdda2332a3b26e1ea933\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\f07d98dbc551fdda2332a3b26e1ea933\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\74cf0d5ea029b00f57dc0b647635295b\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\74cf0d5ea029b00f57dc0b647635295b\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\fcdc4bc9238750f07b0337ee8e87dcfa\transformed\lifecycle-service-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\fcdc4bc9238750f07b0337ee8e87dcfa\transformed\lifecycle-service-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\30d91876f4aec31316c05b5be6070fb7\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\30d91876f4aec31316c05b5be6070fb7\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c69e2b31a75c2176306e19ab053d0177\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c69e2b31a75c2176306e19ab053d0177\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\0aab18d6f99f64da00aa113806ed1ac7\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\0aab18d6f99f64da00aa113806ed1ac7\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\51b6da5c2f59c8ae89077864ba22149b\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\51b6da5c2f59c8ae89077864ba22149b\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\17d6a0c3f5ba97e8897c127f1dc9621e\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\17d6a0c3f5ba97e8897c127f1dc9621e\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5ba7439c7fc2772e1904d874a813a56c\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5ba7439c7fc2772e1904d874a813a56c\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\655361da876b11fc2f7c3e1d32898858\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\655361da876b11fc2f7c3e1d32898858\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\f6e472ed7256e275e3365f56abdbec70\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\f6e472ed7256e275e3365f56abdbec70\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\1b953b0b1c3d6ab234b14d1cb8917629\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\1b953b0b1c3d6ab234b14d1cb8917629\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\a8536c2f27b5acf5e0dd05c1f9756733\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\a8536c2f27b5acf5e0dd05c1f9756733\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5629fa69e6d4b607ce1a4678fd789fd5\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5629fa69e6d4b607ce1a4678fd789fd5\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\35907f846730dd616abd7cf590dc16d8\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\35907f846730dd616abd7cf590dc16d8\transformed\core-splashscreen-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\a2f19a40ff21e92fea9f81c4c804f42b\transformed\room-ktx-2.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\a2f19a40ff21e92fea9f81c4c804f42b\transformed\room-ktx-2.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7e8145148095a530409ee51d55040a84\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7e8145148095a530409ee51d55040a84\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c232a7745ff984932779a47d315abbb0\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c232a7745ff984932779a47d315abbb0\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5af3be363182d560d6ab974942c06cc2\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\5af3be363182d560d6ab974942c06cc2\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [dev.rikka.shizuku:provider:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\89580fe01a1954ffd72dae240aa84c84\transformed\provider-13.1.5\AndroidManifest.xml:6:5-44
+MERGED from [dev.rikka.shizuku:provider:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\89580fe01a1954ffd72dae240aa84c84\transformed\provider-13.1.5\AndroidManifest.xml:6:5-44
+MERGED from [dev.rikka.shizuku:api:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\e3ce219e7959460fb840d131ab4678ac\transformed\api-13.1.5\AndroidManifest.xml:5:5-44
+MERGED from [dev.rikka.shizuku:api:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\e3ce219e7959460fb840d131ab4678ac\transformed\api-13.1.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\bd3c5d7112c781499707e51ea4d14f9f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\bd3c5d7112c781499707e51ea4d14f9f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\85caa28930a6acfc76c6a1a78e9e6d23\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\85caa28930a6acfc76c6a1a78e9e6d23\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [dev.rikka.shizuku:shared:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\fb2e0dc7e6f55a44f60f48f804c4519b\transformed\shared-13.1.5\AndroidManifest.xml:5:5-44
+MERGED from [dev.rikka.shizuku:shared:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\fb2e0dc7e6f55a44f60f48f804c4519b\transformed\shared-13.1.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\103dfdf6e74201e360f64b70c7242c64\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\103dfdf6e74201e360f64b70c7242c64\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\f985ed7cdf0bdd3b72de99d1da66db48\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\f985ed7cdf0bdd3b72de99d1da66db48\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\cb6fa932cc1c510926e2619909dd49fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\cb6fa932cc1c510926e2619909dd49fa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\ddb3432330d81722613f9c1012f7c414\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\ddb3432330d81722613f9c1012f7c414\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\6b0fe6856d6d8d00e67fd9834dc479b4\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\6b0fe6856d6d8d00e67fd9834dc479b4\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\b8e5191d2f4e130c88bdf826d24122c2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\b8e5191d2f4e130c88bdf826d24122c2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\6cbcac371cdacae6ea1452baaba5b294\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\6cbcac371cdacae6ea1452baaba5b294\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\3b2405a130172a4ffb2fb764968e9f77\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\3b2405a130172a4ffb2fb764968e9f77\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\9c5c1662f8df9159b817f3eb7c4586a5\transformed\sqlite-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\9c5c1662f8df9159b817f3eb7c4586a5\transformed\sqlite-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [org.lsposed.hiddenapibypass:hiddenapibypass:4.3] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\64c7f755d56babed05a4e8cb3c030c93\transformed\hiddenapibypass-4.3\AndroidManifest.xml:5:5-7:41
+MERGED from [org.lsposed.hiddenapibypass:hiddenapibypass:4.3] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\64c7f755d56babed05a4e8cb3c030c93\transformed\hiddenapibypass-4.3\AndroidManifest.xml:5:5-7:41
+MERGED from [dev.rikka.shizuku:aidl:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\fd88c38b91577c2ad958a98e4fd57165\transformed\aidl-13.1.5\AndroidManifest.xml:5:5-44
+MERGED from [dev.rikka.shizuku:aidl:13.1.5] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\fd88c38b91577c2ad958a98e4fd57165\transformed\aidl-13.1.5\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Minh Khanh Bui\OneDrive\Desktop\NoFapTracker\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\30d91876f4aec31316c05b5be6070fb7\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\30d91876f4aec31316c05b5be6070fb7\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\103dfdf6e74201e360f64b70c7242c64\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\103dfdf6e74201e360f64b70c7242c64\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7dc8907b51aeb2668916ae905829d8a2\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:26:22-74
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:34:13-36:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:36:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:35:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\49c46a08609d8b62edf1b8ff115fcfe9\transformed\work-runtime-2.9.0\AndroidManifest.xml:140:25-85
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.mika.nofap.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.mika.nofap.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\c5c79a07657e0676fc20ca01de07e19d\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\30d91876f4aec31316c05b5be6070fb7\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\30d91876f4aec31316c05b5be6070fb7\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\30d91876f4aec31316c05b5be6070fb7\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7e8145148095a530409ee51d55040a84\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7e8145148095a530409ee51d55040a84\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7e8145148095a530409ee51d55040a84\transformed\room-runtime-2.5.0\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7e8145148095a530409ee51d55040a84\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\7e8145148095a530409ee51d55040a84\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Minh Khanh Bui\.gradle\caches\transforms-4\46f41c5f593b13e5d1dab610fe292c9d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

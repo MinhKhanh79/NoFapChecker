@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_gold">#F4C542</color>
+    <color name="accent_red">#FF4757</color>
+    <color name="bg_dark">#0D0D0F</color>
+    <color name="card_bg">#1A1A1F</color>
+    <color name="divider">#252530</color>
+    <color name="shizuku_btn">#252530</color>
+    <color name="switch_off_thumb">#6B6B7A</color>
+    <color name="switch_off_track">#333340</color>
+    <color name="switch_on_thumb">#F4C542</color>
+    <color name="switch_on_track">#F4C54266</color>
+    <color name="text_muted">#6B6B7A</color>
+    <color name="text_primary">#EAEAEA</color>
+    <string name="app_name">NoFap Tracker</string>
+    <style name="Theme.NoFapTracker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_gold</item>
+        <item name="colorPrimaryVariant">@color/card_bg</item>
+        <item name="colorOnPrimary">@color/bg_dark</item>
+        <item name="colorSurface">@color/card_bg</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+    </style>
+</resources>

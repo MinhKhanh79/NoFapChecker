@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color accent_gold
+color accent_red
+color bg_dark
+color card_bg
+color divider
+color shizuku_btn
+color switch_off_thumb
+color switch_off_track
+color switch_on_thumb
+color switch_on_track
+color switch_thumb_selector
+color switch_track_selector
+color text_muted
+color text_primary
+drawable ic_notification
+id btnShizuku
+id switchDns
+id tvDays
+id tvHours
+id tvLongest
+id tvMinutes
+id tvResets
+id tvStatus
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.NoFapTracker

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorSurface"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorSurface"
+        app:title="@string/title_settings"
+        app:titleTextColor="?attr/colorOnSurface" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/section_appearance"
+                android:textColor="?attr/colorPrimary"
+                android:textSize="14sp"
+                android:fontFamily="sans-serif-medium"
+                android:layout_marginBottom="8dp" />
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="?attr/colorSurfaceContainerLow"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="0dp"
+                android:layout_marginBottom="24dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <!-- DNS Provider Setting -->
+                    <LinearLayout
+                        android:id="@+id/btnDnsProvider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="16dp"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:background="?attr/selectableItemBackground">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/label_provider"
+                            android:textColor="?attr/colorOnSurface"
+                            android:textSize="16sp" />
+
+                        <TextView
+                            android:id="@+id/tvCurrentProvider"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/dns_provider_adguard"
+                            android:textColor="?attr/colorOnSurfaceVariant"
+                            android:textSize="14sp" />
+                    </LinearLayout>
+
+                    <View
+                        android:id="@+id/dividerCustomDns"
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="?attr/colorOutlineVariant"
+                        android:visibility="gone" />
+
+                    <!-- Custom Hostname Setting -->
+                    <LinearLayout
+                        android:id="@+id/btnCustomDns"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="16dp"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:background="?attr/selectableItemBackground"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/label_custom_dns_field"
+                            android:textColor="?attr/colorOnSurface"
+                            android:textSize="16sp" />
+
+                        <TextView
+                            android:id="@+id/tvCurrentDns"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="family.adguard-dns.com"
+                            android:textColor="?attr/colorOnSurfaceVariant"
+                            android:textSize="14sp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/section_about"
+                android:textColor="?attr/colorPrimary"
+                android:textSize="14sp"
+                android:fontFamily="sans-serif-medium"
+                android:layout_marginBottom="8dp" />
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="?attr/colorSurfaceContainerLow"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="0dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/btnVersion"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="16dp"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/label_version"
+                            android:textColor="?attr/colorOnSurface"
+                            android:textSize="16sp" />
+
+                        <TextView
+                            android:id="@+id/tvVersion"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="1.0.0"
+                            android:textColor="?attr/colorOnSurfaceVariant"
+                            android:textSize="14sp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
